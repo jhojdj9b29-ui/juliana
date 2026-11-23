@@ -5,7 +5,6 @@ import gotaFolha from "@/assets/uploaded/gota-folha.jpeg";
 import folhasMadeira from "@/assets/uploaded/folhas-madeira.jpeg";
 import floresOrvalho from "@/assets/uploaded/flores-orvalho.jpeg";
 import pedrasZen from "@/assets/uploaded/pedras-zen.jpeg";
-import pedrasDouradas from "@/assets/uploaded/pedras-douradas.jpeg";
 import floresEscuras from "@/assets/uploaded/flores-escuras.jpeg";
 import workspace from "@/assets/uploaded/workspace.jpeg";
 

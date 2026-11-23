@@ -1,0 +1,29 @@
+import { useEffect } from "react";
+
+/**
+ * Adiciona a classe `is-visible` aos elementos `.reveal` quando entram na tela.
+ * (O arquivo original veio vazio no export; esta é a versão reconstruída.)
+ */
+export function useReveal() {
+  useEffect(() => {
+    const els = Array.from(document.querySelectorAll<HTMLElement>(".reveal:not(.is-visible)"));
+    if (!els.length) return;
+    if (!("IntersectionObserver" in window)) {
+      els.forEach((el) => el.classList.add("is-visible"));
+      return;
+    }
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            io.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15 },
+    );
+    els.forEach((el) => io.observe(el));
+    return () => io.disconnect();
+  }, []);
+}
