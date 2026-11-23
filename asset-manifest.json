@@ -1,0 +1,770 @@
+[
+  {
+    "asset_json": "src/assets/help-4.jpeg.asset.json",
+    "real_path": "src/assets/help-4.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/fc97fb77-e30b-4616-b138-dea09496df30/help-4.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/marca-grande-footer.jpeg.asset.json",
+    "real_path": "src/assets/marca-grande-footer.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c1de245f-8758-4cf1-85f9-fd3896b0c7dc/marca-grande-footer.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/abstract-waves-premium-v2.jpeg.asset.json",
+    "real_path": "src/assets/abstract-waves-premium-v2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7f622a62-4539-4ddf-b118-2c0459663d3c/abstract-waves-premium-v2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/help-6.jpeg.asset.json",
+    "real_path": "src/assets/help-6.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7f1c068e-6b17-4990-8ed7-c01c49e9d489/help-6.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/planta-hero.mp4.asset.json",
+    "real_path": "src/assets/planta-hero.mp4",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/aaebc92e-4618-450c-bfce-afc63709d336/planta-hero.mp4",
+    "content_type": "video/mp4"
+  },
+  {
+    "asset_json": "src/assets/help-3.jpeg.asset.json",
+    "real_path": "src/assets/help-3.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/f64926d6-61c8-4401-8051-4384ffadf994/help-3.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/hero-1.jpeg.asset.json",
+    "real_path": "src/assets/hero-1.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/28f3e0b9-47bb-4336-9a45-d4c2729e0502/hero-1.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/hero-2.jpeg.asset.json",
+    "real_path": "src/assets/hero-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/b0d3d5cd-e0a9-4ce5-ad44-ce07c58e1191/hero-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/abstract-waves-premium-v3.jpeg.asset.json",
+    "real_path": "src/assets/abstract-waves-premium-v3.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8d947107-9e15-45ed-a6c8-0931674ed952/abstract-waves-premium-v3.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/help-1.jpeg.asset.json",
+    "real_path": "src/assets/help-1.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/82aca1fc-a3ff-418a-8a6c-6d07db4832ee/help-1.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/help-2.jpeg.asset.json",
+    "real_path": "src/assets/help-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1157f684-6285-4b09-8f35-6e2fcaa6f90f/help-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/juliana_about.jpeg.asset.json",
+    "real_path": "src/assets/juliana_about.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/9d990cc2-c247-4d30-8570-c94320484ea1/juliana_about.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/clinica-giglioli-nova.jpeg.asset.json",
+    "real_path": "src/assets/clinica-giglioli-nova.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/0cd049ee-4e4d-4b00-90f3-52de6adde889/clinica-giglioli-nova.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/who-i-am-professional.jpeg.asset.json",
+    "real_path": "src/assets/who-i-am-professional.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/fd4fae4b-b87c-459e-a259-40bf2e51040c/who-i-am-professional.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/photo-2.jpeg.asset.json",
+    "real_path": "src/assets/photo-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d0b4c87e-b902-4791-9578-53463a0954ab/photo-2-new.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/photo-1.jpeg.asset.json",
+    "real_path": "src/assets/photo-1.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/f15fef25-667d-4e37-bb4c-08c186a76c91/photo-1-new.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/juliana_hero.jpeg.asset.json",
+    "real_path": "src/assets/juliana_hero.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/4ec48708-3612-462d-ac1b-e0b480e4a14b/juliana_hero.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/help-8.jpeg.asset.json",
+    "real_path": "src/assets/help-8.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/fdd61b50-4a17-4686-a9be-6b1e53c7a343/help-8.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/clinic-video.mp4.asset.json",
+    "real_path": "src/assets/clinic-video.mp4",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/b79fb335-d052-42e2-acbf-fbba6c06b1cb/clinic-video.mp4",
+    "content_type": "video/mp4"
+  },
+  {
+    "asset_json": "src/assets/help-5.jpeg.asset.json",
+    "real_path": "src/assets/help-5.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/34a5e706-a241-4e19-afb2-5543a94edf47/help-5.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/hero-tan-blouse.jpeg.asset.json",
+    "real_path": "src/assets/hero-tan-blouse.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/4e3f3ba6-12eb-4506-ad71-3d62fd6f8a6e/hero-tan-blouse.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/help-7.jpeg.asset.json",
+    "real_path": "src/assets/help-7.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d62ffded-24cd-4adf-8650-c8ae062bae41/help-7.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/hero-white-suit.jpeg.asset.json",
+    "real_path": "src/assets/hero-white-suit.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/371d4816-8cbe-48ea-bd70-cdf3237b091e/hero-white-suit.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/bronze-silk-macro.jpeg.asset.json",
+    "real_path": "src/assets/nature/bronze-silk-macro.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/e4907b17-b6f9-4bc1-84aa-cb052a9596c6/bronze-silk-macro.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-shadow-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-shadow-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d8bddb5f-5147-4579-9556-ab5c3a209ea2/psycho-shadow-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/sunlit-leaves-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/sunlit-leaves-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1ecb4dab-9632-4f50-abf8-07dc3832e86e/sunlit-leaves-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/fall-leaves-dense.png.asset.json",
+    "real_path": "src/assets/nature/fall-leaves-dense.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8e37e6d6-29b0-41e3-8688-deefa8401c2f/fall-leaves-dense.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/brown-petals.png.asset.json",
+    "real_path": "src/assets/nature/brown-petals.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/60476134-64ef-4b33-980b-3bca5550106e/brown-petals.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/pearl-shell.png.asset.json",
+    "real_path": "src/assets/nature/pearl-shell.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d3fdf49e-a897-433c-9e66-35b6feb10be8/pearl-shell.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/espresso-workspace.png.asset.json",
+    "real_path": "src/assets/nature/espresso-workspace.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8cb6c04d-f828-4fbc-ac0a-f47fc6f90663/espresso-workspace.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/desert-crystals.jpeg.asset.json",
+    "real_path": "src/assets/nature/desert-crystals.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/59b586ba-c5c7-4296-9c24-9fec642c7e2c/desert-crystals.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-shadow-4.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-shadow-4.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c6fc83ca-a78d-49b3-b416-80960f043b97/psycho-shadow-4.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/candles-books.jpeg.asset.json",
+    "real_path": "src/assets/nature/candles-books.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/405a13c2-f0c7-45fc-bf25-16013f90a3f2/candles-books.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-sunset-grass.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-sunset-grass.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/fe6eac10-1496-4b10-9410-1dc00a83adf9/psycho-sunset-grass.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/coffee-books.jpeg.asset.json",
+    "real_path": "src/assets/nature/coffee-books.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c64c2fa3-e1e5-4678-8c99-d3f4a7debbc5/coffee-books.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/lily-petals-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/lily-petals-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/929423f3-aec2-4954-b2d0-ba9feb2ba58a/lily-petals-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/dried-bloom-macro.png.asset.json",
+    "real_path": "src/assets/nature/dried-bloom-macro.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/37ccf7f4-7936-4bea-872e-a54db5493c8e/dried-bloom-macro.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-beach-steps.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-beach-steps.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7dff77af-d4c4-480b-80a7-5c7e64f5e523/psycho-beach-steps.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-shadow-1.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-shadow-1.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8c562510-b159-4c4a-a6e6-bb57c9c88c8a/psycho-shadow-1.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-leaves-drops.png.asset.json",
+    "real_path": "src/assets/nature/golden-leaves-drops.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7ab66169-0943-45b4-944b-0fd3a50bada9/golden-leaves-drops.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-veins-rain-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/leaf-veins-rain-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/9b2bf1b9-1819-420e-9212-2d29c94933f6/leaf-veins-rain-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/green-leaves-drops.png.asset.json",
+    "real_path": "src/assets/nature/green-leaves-drops.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/5dd1dac0-b537-41ce-8d02-f9ec233d9afa/green-leaves-drops.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-coffee-flowers.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-coffee-flowers.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1c51237d-ebf4-43da-8cdb-6ca9fd6185ea/psycho-coffee-flowers.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-pearls-balls.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-pearls-balls.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/ca0a5171-2a97-4197-b406-eaebc811a574/psycho-pearls-balls.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/rose-quartz-collection.png.asset.json",
+    "real_path": "src/assets/nature/rose-quartz-collection.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/67cddca6-21d4-43f6-b123-bbf12c5e86ef/rose-quartz-collection.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/brown-ink-smoke.png.asset.json",
+    "real_path": "src/assets/nature/brown-ink-smoke.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/55677fe3-7761-43da-89fe-01fd6bfdebd0/brown-ink-smoke.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-rain-wood.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-rain-wood.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/cc52db5c-c9a0-4576-944d-4d5b4a49fcab/psycho-rain-wood.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-sparkling-flowers.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-sparkling-flowers.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7f0cb36e-961f-4c56-b3f3-f92cd35612e5/test-sparkling-flowers.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-rose-coffee.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-rose-coffee.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/46e02c59-2c06-4464-951c-00e85091201a/test-rose-coffee.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-drip-espresso.png.asset.json",
+    "real_path": "src/assets/nature/leaf-drip-espresso.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/e5ed91da-c8f1-4944-8bef-ff1f7f36194e/leaf-drip-espresso.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/journal-gold-pen.jpeg.asset.json",
+    "real_path": "src/assets/nature/journal-gold-pen.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/85e2ad6b-4bbf-41e4-834e-3059ad542084/journal-gold-pen.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-drops.jpeg.asset.json",
+    "real_path": "src/assets/nature/leaf-drops.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/7100985d-f06e-4c32-9774-e567cd45eafc/leaf-drops.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/texture-waves.jpeg.asset.json",
+    "real_path": "src/assets/nature/texture-waves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c311143c-0124-4ea5-a012-eec6e853b789/texture-waves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/silk-waves.jpeg.asset.json",
+    "real_path": "src/assets/nature/silk-waves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/70c6c635-6c36-4fff-a27b-737af759d790/silk-waves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-ripple.png.asset.json",
+    "real_path": "src/assets/nature/leaf-ripple.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/cf0fb3be-1eb5-4a02-89e7-ce88873a1658/leaf-ripple.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-skeletons-pattern.png.asset.json",
+    "real_path": "src/assets/nature/leaf-skeletons-pattern.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/f6b29999-a7d7-4996-b70d-9ec0983ed76b/leaf-skeletons-pattern.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/hands-heart-quartz.png.asset.json",
+    "real_path": "src/assets/nature/hands-heart-quartz.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/71ab3c71-1fcc-4443-99e2-a40a9737740c/hands-heart-quartz.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/honey-drip.jpeg.asset.json",
+    "real_path": "src/assets/nature/honey-drip.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/37dfbc54-d38f-4680-b363-53c876e305cd/honey-drip.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-leaf-shadow.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-leaf-shadow.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/b36acc49-912c-4adb-89e1-e8d3b64717b8/test-leaf-shadow.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-reeds.png.asset.json",
+    "real_path": "src/assets/nature/golden-reeds.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/fde2b0a4-e4fc-4444-95f4-96d7e2183b7b/golden-reeds.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/single-drop-leaf.png.asset.json",
+    "real_path": "src/assets/nature/single-drop-leaf.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/a6136ef9-857f-456a-84f6-4ac0ff7ba718/single-drop-leaf.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-branches-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/golden-branches-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d7f3e9d5-0b34-496c-acd7-b0d8ca1b2575/golden-branches-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-grass.jpeg.asset.json",
+    "real_path": "src/assets/nature/golden-grass.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/29891eb2-606a-4c31-a4c1-70b613b505ce/golden-grass.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-rain-wood.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-rain-wood.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c371e480-ad89-4d40-8e5c-82922cc91713/test-rain-wood.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-bubbles.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-bubbles.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/5d3a595d-1380-47af-83df-d5a823fe0eea/psycho-bubbles.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/wave-texture-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/wave-texture-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/a5434014-5cb4-44a3-8390-e86d24779b9c/wave-texture-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/espresso-smoke.jpeg.asset.json",
+    "real_path": "src/assets/nature/espresso-smoke.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/55118e55-72cd-48bc-9bbf-a963c906866b/espresso-smoke.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-sunset-grass.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-sunset-grass.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/cdd9c891-e99b-4f8c-8739-f9275e883ea0/test-sunset-grass.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-sparkling-flowers.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-sparkling-flowers.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/370d0fb0-ff02-461a-b1e6-e0bae466d110/psycho-sparkling-flowers.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-bubbles.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-bubbles.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/5afa356a-2058-46eb-802c-e029903bc664/test-bubbles.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-coffee-flowers.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-coffee-flowers.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/0cc5c20e-cbc7-4f63-a274-f907624d3f16/test-coffee-flowers.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/wood-crystals.jpeg.asset.json",
+    "real_path": "src/assets/nature/wood-crystals.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d31c89a2-90cb-4d46-b191-a6c5ec717d3c/wood-crystals.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/oyster-pearl.jpeg.asset.json",
+    "real_path": "src/assets/nature/oyster-pearl.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/cd1858e0-e887-493c-8327-db2e3302494b/oyster-pearl.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/dried-flower.jpeg.asset.json",
+    "real_path": "src/assets/nature/dried-flower.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/14914b40-b9ce-4d15-888a-f1010b699420/dried-flower.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/silk-drapery.png.asset.json",
+    "real_path": "src/assets/nature/silk-drapery.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/47f6b9d4-2b98-4837-be9f-ac363e10f7b6/silk-drapery.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-shadow-3.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-shadow-3.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1e2fefee-e0ad-47ca-aaad-86720d52e0d2/psycho-shadow-3.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/autumn-leaf-heart.png.asset.json",
+    "real_path": "src/assets/nature/autumn-leaf-heart.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/2906d080-d12f-480a-8acf-a8470e08aac9/autumn-leaf-heart.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/test-brown-leaves.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-brown-leaves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/bce0574f-c1f5-4d40-b8cd-3f541aed7b1f/test-brown-leaves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/dried-bloom-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/dried-bloom-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/3661b168-9906-4e23-b383-5545c97e1ad8/dried-bloom-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-spheres-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/golden-spheres-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/9a02eec5-9206-4172-b3f9-ab621593541a/golden-spheres-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/backlit-fall-leaves.png.asset.json",
+    "real_path": "src/assets/nature/backlit-fall-leaves.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/4ed26d0b-870c-4f4e-9f3e-b82191ec7473/backlit-fall-leaves.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/ink-flow-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/ink-flow-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/3a13955c-44bd-4035-a226-1dbff9067a3d/ink-flow-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/sparkling-dune.jpeg.asset.json",
+    "real_path": "src/assets/nature/sparkling-dune.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/69c911f6-6bd7-4b72-bdfd-264eb895709f/sparkling-dune.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/desert-sand-pearls.jpeg.asset.json",
+    "real_path": "src/assets/nature/desert-sand-pearls.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/04cfc469-5b74-4bd6-8395-78b0099d23f4/desert-sand-pearls.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/dried-flower-macro-2.png.asset.json",
+    "real_path": "src/assets/nature/dried-flower-macro-2.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/5d8ae3de-0570-4403-8dbb-394c61fbccbe/dried-flower-macro-2.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-leaves.jpeg.asset.json",
+    "real_path": "src/assets/nature/golden-leaves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/5dabb0ba-4ff4-424c-8c7b-7cdb9693cae4/golden-leaves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-veins-rain.png.asset.json",
+    "real_path": "src/assets/nature/leaf-veins-rain.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/05897e97-3404-4bb9-82fe-b1d2676b7c56/leaf-veins-rain.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-beads.jpeg.asset.json",
+    "real_path": "src/assets/nature/golden-beads.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/03bbed50-d653-4f6a-9ae6-6c63a4bc6892/golden-beads.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/brown-callas.jpeg.asset.json",
+    "real_path": "src/assets/nature/brown-callas.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/121e194a-1a3f-4eb2-862a-d6f64c08c793/brown-callas.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/fall-leaves-planks.png.asset.json",
+    "real_path": "src/assets/nature/fall-leaves-planks.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/ff9b6b51-1b1d-472e-a13e-eb9b8ce00b8d/fall-leaves-planks.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/zen-stones-stack.png.asset.json",
+    "real_path": "src/assets/nature/zen-stones-stack.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/85a53c33-9cb6-42a3-b34b-5bfd2f6c3d13/zen-stones-stack.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-brown-leaves.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-brown-leaves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/307505b8-c066-41bb-9542-1adf11c931b6/psycho-brown-leaves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/heart-drop-textured.png.asset.json",
+    "real_path": "src/assets/nature/heart-drop-textured.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/6bec57f6-f560-407f-aaa2-4cf4bfcc3123/heart-drop-textured.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-rose-coffee.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-rose-coffee.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/eabf4748-a7d3-433b-be50-aab237a4a464/psycho-rose-coffee.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/rain-leaf-branch.png.asset.json",
+    "real_path": "src/assets/nature/rain-leaf-branch.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/4b1a606a-2861-4b28-bdfa-75f6bb799a91/rain-leaf-branch.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/leaf-drops-macro.png.asset.json",
+    "real_path": "src/assets/nature/leaf-drops-macro.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8070248b-bfdc-410b-ac9e-f10ae018d025/leaf-drops-macro.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/pearl-oyster-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/pearl-oyster-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/feb52184-73e1-4a45-9e18-4f6914777105/pearl-oyster-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/test-beach-steps.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-beach-steps.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/361c9ff2-a414-4013-a218-b205465debfc/test-beach-steps.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/abstract-waves-premium.jpeg.asset.json",
+    "real_path": "src/assets/nature/abstract-waves-premium.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/89c9d13e-c945-4271-a38f-976e28f6a95f/abstract-waves-premium.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/psycho-leaf-shadow.jpeg.asset.json",
+    "real_path": "src/assets/nature/psycho-leaf-shadow.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/cd765663-a7fe-4997-8066-983788631229/psycho-leaf-shadow.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/smoky-quartz.jpeg.asset.json",
+    "real_path": "src/assets/nature/smoky-quartz.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8ac78671-d1c7-445e-89e1-eff60bd48783/smoky-quartz.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/golden-spheres-macro.png.asset.json",
+    "real_path": "src/assets/nature/golden-spheres-macro.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/464e7f2f-35d9-48cf-a9da-251370ce8045/golden-spheres-macro.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/pebbles-river-edge.png.asset.json",
+    "real_path": "src/assets/nature/pebbles-river-edge.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/a09f5645-df3a-48c8-88db-42cd2e4cb72d/pebbles-river-edge.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/test-pearls-balls.jpeg.asset.json",
+    "real_path": "src/assets/nature/test-pearls-balls.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/8c533828-4ef6-4b58-8e0d-8676725fe932/test-pearls-balls.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/nature/quartz-stack.png.asset.json",
+    "real_path": "src/assets/nature/quartz-stack.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/2f4af62c-148f-4cc2-8b5f-4333840743e6/quartz-stack.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/hourglass-premium.png.asset.json",
+    "real_path": "src/assets/nature/hourglass-premium.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/a0fe71a4-05e5-4f9a-a11f-0e2b46a2b3fd/hourglass-premium.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/beige-waves.png.asset.json",
+    "real_path": "src/assets/nature/beige-waves.png",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/45fe3bf6-a6cf-4c0c-bc7e-d16631328ff8/beige-waves.png",
+    "content_type": "image/png"
+  },
+  {
+    "asset_json": "src/assets/nature/satin-folds-2.jpeg.asset.json",
+    "real_path": "src/assets/nature/satin-folds-2.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/724c8ff2-f5be-462e-8969-ab61e74e79f7/satin-folds-2.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/brown-leaves-textured.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/brown-leaves-textured.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/dc3f1468-aec0-44af-8141-c6eb01590f3e/brown-leaves-textured.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/water-ripple-leaves.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/water-ripple-leaves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/c1aa0e44-080d-4da6-9c7d-aff973f6f59d/water-ripple-leaves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/flor-seca.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/flor-seca.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d8c9895c-a812-479c-a31f-cbdcf0e7e43a/flor-seca.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/pedras-rio.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/pedras-rio.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d88428e1-2e22-4413-941c-a44c42808fdc/pedras-rio.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/pedras-zen.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/pedras-zen.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/521d178f-6dab-4919-bc68-1c072363da81/pedras-zen.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/leaf-skeleton.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/leaf-skeleton.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/0c63362f-eb80-4fed-8b80-3a84906e0cf4/leaf-skeleton.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/water-drops-leaves.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/water-drops-leaves.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/761f98cd-30ea-47dc-980c-42d69414a37d/water-drops-leaves.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/flores-escuras.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/flores-escuras.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/aa7f6ae4-9c3b-47f5-a1d6-b7a9147db7ed/flores-escuras.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/quartz-hearts.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/quartz-hearts.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/08f37118-522a-4a38-9b64-f0ec1e49d5eb/quartz-hearts.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/smoke-abstract.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/smoke-abstract.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d34d61f3-b91f-4b91-8d76-732d92b46682/smoke-abstract.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/folhas-madeira.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/folhas-madeira.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1e5e0fe8-a20f-403a-a9c5-cf0ad82c4ca5/folhas-madeira.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/heart-drop-leaf.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/heart-drop-leaf.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/86320cdb-90eb-4075-bc55-9c62aeed3d5b/heart-drop-leaf.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/hands-quartz-heart.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/hands-quartz-heart.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/1dfd7792-e136-4b63-8ea5-1876a820fa95/hands-quartz-heart.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/pedras-douradas.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/pedras-douradas.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/13120a38-52f3-4d0b-a889-3d31747c0701/pedras-douradas.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/quartz-crystals.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/quartz-crystals.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/04141f99-9e74-471f-a5ca-a0ab0282ad61/quartz-crystals.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/flores-orvalho.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/flores-orvalho.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d4dabe94-7781-4aa3-8aec-c33fb3c51aa4/flores-orvalho.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/gota-folha.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/gota-folha.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/d530f14b-aaed-48be-8077-5e838e302656/gota-folha.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/workspace.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/workspace.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/467bcfa9-ac97-44f4-beaa-54d7eac9a42c/workspace.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/maple-heart.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/maple-heart.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/e1d62070-f8d5-440e-87bb-0bfa820a8441/maple-heart.jpeg",
+    "content_type": "image/jpeg"
+  },
+  {
+    "asset_json": "src/assets/uploaded/ampulheta.jpeg.asset.json",
+    "real_path": "src/assets/uploaded/ampulheta.jpeg",
+    "url": "https://warm-hug-whisperer.lovable.app/__l5e/assets-v1/91df6601-a62a-4b63-800c-f7b9fbe67d63/ampulheta.jpeg",
+    "content_type": "image/jpeg"
+  }
+]
