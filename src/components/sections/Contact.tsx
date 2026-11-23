@@ -41,7 +41,7 @@ export function Contact() {
 
       <div className="mx-auto grid max-w-[1400px] gap-20 px-6 lg:grid-cols-2 lg:px-10">
         <div data-aos="fade-right">
-          <SectionLabel num="07" label="Agendamento" />
+          <SectionLabel num="11" label="Agendamento" />
           <h2 className="font-display mt-8 text-5xl lg:text-7xl leading-[1.1]">
             <span className="text-primary italic">Um passo</span>
             <br />

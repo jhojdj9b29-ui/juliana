@@ -1,5 +1,6 @@
 import { MapPin, ArrowUpRight } from "lucide-react";
 import clinicaGiglioliAsset from "@/assets/clinica-giglioli-nova.jpeg";
+import { SectionLabel } from "@/components/SectionLabel";
 
 export function Location() {
   const mapLink = "https://maps.app.goo.gl/BSJtX12opb7BkhLG6";
@@ -12,9 +13,7 @@ export function Location() {
 
       <div className="mx-auto max-w-[1400px] px-6 lg:px-10">
         <div className="mb-20 text-center" data-aos="fade-up">
-          <span className="label-mono flex items-center justify-center gap-4 text-[0.7rem] tracking-[0.4em] text-primary/40 font-black uppercase mb-6">
-            <span className="h-px w-12 bg-primary/20" /> Atendimento Físico
-          </span>
+          <SectionLabel num="07" label="Atendimento presencial" center className="mb-6" />
           <h2 className="font-display text-5xl lg:text-8xl leading-none text-foreground mb-10">
             Onde te <br />
             <span className="text-primary italic">espero.</span>
@@ -26,7 +25,7 @@ export function Location() {
         </div>
 
         <div className="grid gap-20 lg:grid-cols-2 lg:items-center">
-          <div className="relative order-2 max-w-[280px] sm:max-w-xs md:max-w-sm mx-auto lg:max-w-none lg:w-[80%]" data-aos="fade-left">
+          <div className="relative order-2 max-w-[280px] sm:max-w-xs md:max-w-sm mx-auto lg:max-w-none lg:w-[80%]" data-aos="clip-up">
             {/* Frame for clinical image */}
             <div className="relative overflow-hidden rounded-[2.5rem] shadow-elegant group border border-border/10">
               <img

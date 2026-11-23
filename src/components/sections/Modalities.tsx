@@ -34,7 +34,7 @@ export function Modalities() {
     <section id="atendimentos" className="border-t border-border/20 py-24 lg:py-32">
       <div className="mx-auto max-w-[1400px] px-6 lg:px-10">
         <div data-aos="fade-up">
-          <SectionLabel num="04" label="Atendimentos" />
+          <SectionLabel num="06" label="Atendimentos" />
           <h2 className="font-display mt-8 max-w-4xl text-5xl leading-[1] sm:text-6xl lg:text-7xl xl:text-8xl text-foreground">
             <span className="text-primary">Escolha a modalidade que </span>
             <em className="italic text-foreground/90">seja mais confortável para você.</em>

@@ -1,3 +1,4 @@
+import { ScrollWords } from "@/components/ScrollWords";
 import { SectionLabel } from "@/components/SectionLabel";
 import { CRP } from "@/lib/site";
 
@@ -20,7 +21,7 @@ export function Method() {
 
       <div className="relative mx-auto max-w-[1400px] px-6 lg:px-10">
         <div data-aos="fade-up" className="rounded-[3.5rem] border border-primary/20 bg-[#241A12]/40 p-10 shadow-elegant backdrop-blur-xl sm:p-20">
-          <SectionLabel num="05" label="Abordagem Clínica" />
+          <SectionLabel num="03" label="Abordagem Clínica" />
           
           <div className="mt-12 grid gap-16 lg:grid-cols-[1.2fr_1fr] items-center">
             <h2 className="font-display text-5xl leading-[1] sm:text-7xl lg:text-9xl tracking-tight text-foreground">
@@ -55,13 +56,25 @@ export function Method() {
         </div>
       </div>
 
-      <div className="mx-auto mt-40 max-w-5xl px-6 text-center" data-aos="zoom-in">
+      <div className="mx-auto mt-40 max-w-5xl px-6 text-center">
         <span className="label-mono text-primary/40 tracking-[0.5em] text-[0.7rem] uppercase font-black">O Convite</span>
-        <p className="font-display mt-12 text-5xl leading-[1.1] sm:text-7xl text-foreground">
-          "Você não precisa chegar ao 
-          <span className="text-primary italic mx-3 underline decoration-primary/20 underline-offset-8">limite</span>
-          para começar a cuidar de si."
-        </p>
+        <ScrollWords
+          className="font-display mt-12 text-5xl leading-[1.1] sm:text-7xl text-foreground"
+          words={[
+            { text: "“Você" },
+            { text: "não" },
+            { text: "precisa" },
+            { text: "chegar" },
+            { text: "ao" },
+            { text: "limite", highlight: true },
+            { text: "para" },
+            { text: "começar" },
+            { text: "a" },
+            { text: "cuidar" },
+            { text: "de" },
+            { text: "si.”" },
+          ]}
+        />
         <div className="mt-16 flex flex-col items-center gap-8">
           <div className="h-24 w-px bg-gradient-to-b from-primary/40 to-transparent" />
           <p className="label-mono text-[0.75rem] tracking-[0.6em] text-primary/60 font-black uppercase">

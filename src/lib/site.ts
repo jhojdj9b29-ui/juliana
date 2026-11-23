@@ -49,10 +49,11 @@ export const CRP = "CRP 24/05924";
 export const NAV = [
   { num: "01", label: "Sobre", href: "#sobre" },
   { num: "02", label: "Ajuda", href: "#ajuda" },
-  { num: "03", label: "Atender", href: "#atendimentos" },
-  { num: "04", label: "Conteúdos", href: "#conteudos" },
-  { num: "05", label: "Dúvidas", href: "#duvidas" },
-  { num: "06", label: "Localização", href: "#localizacao" },
+  { num: "03", label: "Processo", href: "#processo" },
+  { num: "04", label: "Atendimentos", href: "#atendimentos" },
+  { num: "05", label: "Conteúdos", href: "#conteudos" },
+  { num: "06", label: "Dúvidas", href: "#duvidas" },
+  { num: "07", label: "Localização", href: "#localizacao" },
 ];
 
 export const HELP_ITEMS = [

@@ -1,4 +1,4 @@
-import { Instagram, Linkedin, Youtube, MessageCircle, MapPin } from "lucide-react";
+import { Instagram, MessageCircle, MapPin } from "lucide-react";
 import logo from "@/assets/logo.png";
 import brandAsset from "@/assets/marca-grande-footer.jpeg";
 import { CRP, INSTAGRAM, NAV, WHATSAPP } from "@/lib/site";
@@ -23,13 +23,11 @@ export function Footer() {
               </span>
             </a>
             <p className="mt-8 max-w-sm text-lg leading-relaxed text-muted-foreground">
-              Psicoterapia individual online e presencial. Acolhimento e técnica para sua saúde mental.
+              Psicoterapia individual online, presencial e home care. Acolhimento e técnica para sua saúde mental.
             </p>
             <div className="mt-10 flex gap-4">
               {[
                 { icon: Instagram, href: INSTAGRAM },
-                { icon: Linkedin, href: "#" },
-                { icon: Youtube, href: "#" },
               ].map((social, i) => (
                 <a
                   key={i}
@@ -52,13 +50,16 @@ export function Footer() {
                 <a
                   key={item.href}
                   href={`#${item.href.replace('#', '')}`}
-                  className="text-muted-foreground transition-colors hover:text-primary font-medium"
+                  className="link-redraw self-start text-muted-foreground transition-colors hover:text-primary font-medium"
                 >
                   {item.label}
                 </a>
               ))}
-              <a href="#conteudos" className="text-muted-foreground transition-colors hover:text-primary font-medium">
-                Conteúdos
+              <a href="#testes" className="link-redraw self-start text-muted-foreground transition-colors hover:text-primary font-medium">
+                Questionários
+              </a>
+              <a href="#agendar" className="link-redraw self-start text-muted-foreground transition-colors hover:text-primary font-medium">
+                Agendar
               </a>
             </nav>
           </div>

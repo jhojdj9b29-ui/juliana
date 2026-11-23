@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import VanillaTilt from "vanilla-tilt";
 
 import { getTestImage } from "@/lib/test-images";
+import { SectionLabel } from "@/components/SectionLabel";
 import { TESTES } from "@/lib/tests";
 
 const DESTAQUE = {
@@ -52,7 +53,7 @@ export function TestsArea() {
 
       <div className="mx-auto max-w-[1280px] px-6 lg:px-10">
         <div data-aos="fade-up" className="max-w-2xl">
-          <span className="label-mono text-primary/60 tracking-[0.2em]">Autoconhecimento · Reflexão</span>
+          <SectionLabel num="09" label="Autoconhecimento · Reflexão" />
           <h2 className="font-display mt-6 text-5xl leading-[1] sm:text-6xl lg:text-7xl text-foreground">
             Questionários de Autoconhecimento e Reflexão
           </h2>

@@ -38,7 +38,7 @@ export function Help() {
             <article
               key={item.title}
               data-aos="fade-up"
-              data-aos-delay={index * 150}
+              data-aos-delay={(index % 3) * 120}
               className="group relative overflow-hidden rounded-2xl sm:rounded-[2.5rem] border border-border/20 shadow-elegant transition-all hover:border-primary/40"
             >
               <div className="relative aspect-[4/5] overflow-hidden">
@@ -46,10 +46,16 @@ export function Help() {
                   src={item.img}
                   alt={item.title}
                   loading="lazy"
-                  className="h-full w-full object-cover transition-transform duration-1000 group-hover:scale-110"
+                  className="h-full w-full object-cover transition-transform duration-[1200ms] ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.06]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#241A12] via-[#241A12]/20 to-transparent" />
                 <div className="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
+                {index === 0 && (
+                  <span
+                    aria-hidden
+                    className="breathe pointer-events-none absolute right-4 top-4 size-10 rounded-full border border-primary/40 bg-primary/10 backdrop-blur-sm sm:right-8 sm:top-8 sm:size-16"
+                  />
+                )}
               </div>
 
               <div className="absolute inset-x-4 bottom-4 sm:inset-x-8 sm:bottom-8">
@@ -59,7 +65,7 @@ export function Help() {
                   </span>
                   <span className="label-mono text-[0.6rem] text-primary/60 tracking-[0.2em]">/ {item.n}</span>
                 </div>
-                <span className="label-mono text-[0.65rem] text-primary/80 tracking-[0.3em] font-bold">· {item.tag}</span>
+                <span className="block label-mono text-[0.65rem] text-primary/80 tracking-[0.3em] font-bold transition-all duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] [@media(hover:hover)]:translate-y-2 [@media(hover:hover)]:opacity-0 group-hover:translate-y-0 group-hover:opacity-100">· {item.tag}</span>
                 <h3 className="font-display mt-2 text-xl sm:text-3xl text-foreground">{item.title}</h3>
                 <span className="mt-4 block h-0.5 w-10 bg-primary/40 transition-all duration-700 group-hover:w-24 group-hover:bg-primary" />
               </div>

@@ -12,10 +12,11 @@ import { Hero } from "@/components/sections/Hero";
 import { Method } from "@/components/sections/Method";
 import { Location } from "@/components/sections/Location";
 import { Modalities } from "@/components/sections/Modalities";
+import { Process } from "@/components/sections/Process";
 import { Summary } from "@/components/sections/Summary";
 import { TestsArea } from "@/components/sections/TestsArea";
-import { WhoIAm } from "@/components/sections/WhoIAm";
 import { useReveal } from "@/hooks/use-reveal";
+import { useSmoothScroll } from "@/hooks/use-smooth-scroll";
 
 const title = "Juliana Janjob · Psicóloga em Cacoal RO | Terapia TCC";
 const description =
@@ -37,6 +38,7 @@ export const Route = createFileRoute("/")({
 
 function Index() {
   useReveal();
+  useSmoothScroll();
 
   return (
     <div className="min-h-screen bg-background">
@@ -44,16 +46,15 @@ function Index() {
       <main>
         <Hero />
         <About />
-        <WhoIAm />
-        
         <Help />
+        <Method />
+        <Process />
         <Formation />
         <Modalities />
-        <Method />
-        <Summary />
-        <Faq />
         <Location />
+        <Summary />
         <TestsArea />
+        <Faq />
         <Contact />
       </main>
       <Footer />

@@ -14,7 +14,7 @@ export function Faq() {
 
       <div className="mx-auto grid max-w-[1400px] gap-20 px-6 lg:grid-cols-[0.8fr_1.2fr] lg:px-10">
         <div data-aos="fade-right" className="lg:sticky lg:top-40 lg:self-start">
-          <SectionLabel num="06" label="Dúvidas" />
+          <SectionLabel num="10" label="Dúvidas" />
           <h2 className="font-display mt-8 text-5xl lg:text-7xl leading-[1.1] text-foreground">
             <span className="text-primary italic">Antes de começar,</span>
             <br />

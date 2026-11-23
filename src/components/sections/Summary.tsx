@@ -2,7 +2,8 @@ import { useState, useRef, useEffect } from "react";
 import { BookOpen, ChevronDown, ChevronRight, ChevronUp, X } from "lucide-react";
 import VanillaTilt from "vanilla-tilt";
 
-import abstractWavesPremiumV3 from "@/assets/abstract-waves-premium-v3.jpeg";
+import { SectionLabel } from "@/components/SectionLabel";
+import { getSummaryImage } from "@/lib/summary-images";
 import { SUMMARY_ITEMS, type SummaryItem } from "@/lib/summary";
 
 export function Summary() {
@@ -46,7 +47,7 @@ export function Summary() {
       
       <div className="mx-auto max-w-[1280px] px-6 lg:px-10">
         <div className="mb-20 text-center" data-aos="fade-up">
-          <span className="label-mono text-primary/60 tracking-[0.2em] mb-4 block">Educação e Consciência</span>
+          <SectionLabel num="08" label="Educação e consciência" center className="mb-6" />
           <h2 className="font-display text-5xl lg:text-7xl text-foreground mb-8">Conteúdos para sua Saúde Emocional</h2>
           <p className="max-w-2xl mx-auto text-lg text-muted-foreground leading-relaxed font-sans">
             Informações e reflexões sobre emoções, relacionamentos, comportamentos e saúde mental, para ajudar você a compreender melhor o que sente e vivencia.
@@ -64,7 +65,7 @@ export function Summary() {
             >
               <div className="relative aspect-[16/10] overflow-hidden">
                 <img
-                  src={abstractWavesPremiumV3}
+                  src={getSummaryImage(index)}
                   alt={item.title}
                   loading="lazy"
                   className="size-full object-cover transition-transform duration-1000 group-hover:scale-110"
